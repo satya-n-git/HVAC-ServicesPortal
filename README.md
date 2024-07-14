@@ -13,6 +13,9 @@ Welcome to the HVAC Services Portal, a professional single-page application desi
 - **FAQ**: Commonly asked questions with answers.
 - **Footer**: Additional links and information.
 
+## Screenshot
+![Homepage Screenshot](./public/gallery/HomePage.png)
+
 ## Technologies Used
 
 - React
