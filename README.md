@@ -14,7 +14,7 @@ Welcome to the HVAC Services Portal, a professional single-page application desi
 - **Footer**: Additional links and information.
 
 ## Screenshot
-![Homepage Screenshot](./public/gallery/HomePage.png)
+![Homepage Screenshot](public/gallery/HomePage.png)
 
 ## Technologies Used
 
